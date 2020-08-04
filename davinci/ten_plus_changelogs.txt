@@ -1,0 +1,4 @@
+Changelogs:
+1. Updated Pig's kernel to 4.14.190
+2. Fixed NFC for Globle and China variants
+3. Improved system stability
