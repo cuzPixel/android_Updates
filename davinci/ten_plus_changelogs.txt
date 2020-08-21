@@ -1,3 +1,11 @@
 Changelogs:
-1. Updated Pig's kernel to 4.14.193
-2. Improved system stability
+1. Android August security patches.
+2. Added screen off fod.
+3. Removed Google Tips.
+4. Added display color modes.
+5. Improved thermal control.
+6. Fixed charging bugs.
+7. Fixed freeform.
+8. Improved incremental updates.
+9. Updated kernel to 4.14.193.
+10. Improved system stability.
