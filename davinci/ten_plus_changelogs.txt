@@ -1,5 +1,10 @@
-Changelogs:
-1. Improved display color modes.
-2. Improved keyguard/statusbar rounded corners padding.
-3. Updated Piggy kernel to 4.14.194.
-4. Improved system stability.
+Device: Xiaomi Mi 9T / Redmi K20 (davinci)
+Description: Android August Security Patches
+Build Type: Incremental
+
+===== 24 August, 2020 =====
+
+- Improved display color modes.
+- Improved keyguard/statusbar rounded corners padding.
+- Updated Piggy kernel to 4.14.194.
+- Improved system stability.
