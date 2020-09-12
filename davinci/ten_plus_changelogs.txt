@@ -2,14 +2,11 @@ Device: Xiaomi Mi 9T / Redmi K20 (davinci)
 Description: Improved performence from sunfish
 Build Type: Full
 
-===== 09 September, 2020 =====
+===== 11 September, 2020 =====
 
-- Improved performence from sunfish.
-- Updated Piggy kernel to 4.14.196.
-- Fixed LiveDisplay color profile.
-- Fixed incoming call audio/display bugs.
-- Added seamless doze.
-- Added face unlock.
+- September Security Patch.
+- Improved the face unlock.
+- Added Pocket lock.
+- Translations updated.
 - Improved system stability.
-- September security patch preview version
 
