@@ -1,8 +1,8 @@
 Device: Xiaomi Mi 9T / Redmi K20 (davinci)
-Description: Improved performence from sunfish
-Build Type: Full
+Description: September Security Patch
+Build Type: Incremental and Full
 
-===== 11 September, 2020 =====
+===== 14 September, 2020 =====
 
 - September Security Patch.
 - Improved the face unlock.
