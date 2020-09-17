@@ -2,11 +2,9 @@ Device: Xiaomi Mi 9T / Redmi K20 (davinci)
 Description: September Security Patch
 Build Type: Incremental and Full
 
-===== 14 September, 2020 =====
+===== Sep 17, 2020 =====
 
-- September Security Patch.
-- Improved the face unlock.
-- Added Pocket lock.
-- Translations updated.
+- Increase max visible notifications icons.
+- Moore suitable powerhint tuning.
 - Improved system stability.
 
