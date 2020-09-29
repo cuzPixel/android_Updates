@@ -1,10 +1,12 @@
 Device: Xiaomi Mi 9T / Redmi K20 (davinci)
 Description: September Security Patch
-Build Type: Incremental and Full
+Build Type: Incremental
 
-===== Sep 17, 2020 =====
+===== Sep 28, 2020 =====
 
-- Increase max visible notifications icons.
-- Moore suitable powerhint tuning.
+- Updated Piggy kernel to 4.14.198.
+- Import pixel thermal hal.
+- Build custom audio amplifier.
+- Set screen density to 420 by default.
 - Improved system stability.
 
