@@ -1,13 +1,13 @@
 {
-  "datetime": 1601260320,
-  "filename": "PixelExperience_Plus_davinci-10.0-20200917-0335-update-20200928-0232-UNOFFICIAL.zip",
-  "id": "a4376d14cdf7d588d2a2a5e8615431c3",
-  "size": 33292737,
-  "url": "https://sourceforge.net/projects/cuzpixel/files/davinci/ten_plus/PixelExperience_Plus_davinci-10.0-20200917-0335-update-20200928-0232-UNOFFICIAL.zip/download",
+  "datetime": 1602290460,
+  "filename": "PixelExperience_Plus_davinci-10.0-20201010-0041-UNOFFICIAL.zip",
+  "id": "c7b6e466443ac8c8b6c7bed7f6ac4941",
+  "size": 1408878367,
+  "url": "https://sourceforge.net/projects/cuzpixel/files/davinci/Full_Packages/PixelExperience_Plus_davinci-10.0-20201010-0041-UNOFFICIAL.zip/download",
   "version": "ten_plus",
-  "filehash": "abb61b8e340a984dfb8726fbaeacdb01",
-  "is_incremental": true,
-  "has_incremental": true,
+  "filehash": "02c75ee2ccd053d7d44e38e3ade1dc8d",
+  "is_incremental": false,
+  "has_incremental": false,
   "error": false,
   "maintainers": [
     {
