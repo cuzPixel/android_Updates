@@ -1,13 +1,9 @@
 Device: Xiaomi Mi 9T / Redmi K20 (davinci)
-Description: September Security Patch
-Build Type: Full
+Description: October Security Patch
+Build Type: Incremental
 
-===== Oct 10, 2020 =====
+===== Oct 14, 2020 =====
 
-- Updated Piggy kernel to 4.14.200.
-- Fixed Audio bugs.
-- Improved LiveDisplay color mode.
-- Improved system stability.
-
-* Synchronize latest trees from LineageOS official (17.1)
+- October security patch
+- Updated translations
 
