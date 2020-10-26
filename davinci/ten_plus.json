@@ -1,13 +1,13 @@
 {
-  "datetime": 1602639480,
-  "filename": "PixelExperience_Plus_davinci-10.0-20201010-0041-update-20201014-0138-UNOFFICIAL.zip",
-  "id": "eb43a4645f76d36192a7b20cb7f350f0",
-  "size": 173495379,
-  "url": "https://sourceforge.net/projects/cuzpixel/files/davinci/ten_plus/PixelExperience_Plus_davinci-10.0-20201010-0041-update-20201014-0138-UNOFFICIAL.zip/download",
+  "datetime": 1603676160,
+  "filename": "PixelExperience_Plus_davinci-10.0-20201026-0136-UNOFFICIAL.zip",
+  "id": "f56c3d8d0879a4d4e616e84745ac6244",
+  "size": 1408874944,
+  "url": "https://sourceforge.net/projects/cuzpixel/files/davinci/Full_Packages/PixelExperience_Plus_davinci-10.0-20201026-0136-UNOFFICIAL.zip/download",
   "version": "ten_plus",
-  "filehash": "1f4472f27b38a0786a8f3830079d74fd",
-  "is_incremental": true,
-  "has_incremental": true,
+  "filehash": "548169f48ec7fbd8c5b439aeee574981",
+  "is_incremental": false,
+  "has_incremental": false,
   "error": false,
   "maintainers": [
     {
@@ -16,7 +16,7 @@
       "name": "Ray Lau"
     }
   ],
-  "donate_url": "https://www.paypal.me/raysenlau",
+  "donate_url": "",
   "website_url": "",
   "news_url": "https://t.me/cuzPixel",
   "forum_url": "https://forum.xda-developers.com/mi-9t/development/unofficial-pixel-experience-t4005213"
