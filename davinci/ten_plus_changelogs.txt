@@ -1,10 +1,11 @@
 Device: Xiaomi Mi 9T / Redmi K20 (davinci)
-Description: October Security Patch
-Build Type: Full
+Description: November Security Patch
+Build Type: Full / Incremental
 
-===== Oct 26, 2020 =====
+===== Nov 14, 2020 =====
 
-- Updated Piggy kernel to 4.14.202
-- Fixed random frame drop
-- Improved rendering (Jitter)
+- Merged android security patch 10.0.0_r48
+- Updated Piggy kernel 4.14.204
+- Added AOSP adaptive color mode
+- Improved system stability
 
