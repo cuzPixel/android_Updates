@@ -1,0 +1,8 @@
+Device: Xiaomi Mi 9T / Redmi K20 (davinci)
+Description: December Security Patch
+Build Type: Full
+
+===== Dec 1, 2020 =====
+
+- Initial build for PE 11.0
+
