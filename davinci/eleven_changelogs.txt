@@ -2,9 +2,10 @@ Device: Xiaomi Mi 9T / Redmi K20 (davinci)
 Description: December Security Patch
 Build Type: Full
 
-===== Dec 7, 2020 =====
+===== Jan 6, 2021 =====
 
-- Updated Piggy kernel 4.14.210.
-- Fixed Bluetooth HD audio(QTi).
-- Improved system smoothness.
+- Updated Piggy kernel 4.14.213.
+- Improved boot up time.
+- Improved Lights and WFD.
 - Improved system stability.
+[Tips: Screen off fod was disabled for now]
