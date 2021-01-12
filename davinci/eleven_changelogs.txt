@@ -1,11 +1,18 @@
 Device: Xiaomi Mi 9T / Redmi K20 (davinci)
-Description: December Security Patch
+Description: January Security Patch
 Build Type: Full
 
-===== Jan 6, 2021 =====
+===== Jan 12, 2021 =====
 
-- Updated Piggy kernel 4.14.213.
-- Improved boot up time.
-- Improved Lights and WFD.
+!!! Formatting DATA Warning !!!
+
+According to the vote from our Channel, we have switched back to the old encryption!
+
+OTA download is not available for now, Please do a clean flash manually.
+
+Changelogs:
+- Updated Piggy kernel 4.14.214.
+- Merged January Security Patch (android-11.0.0_r27).
+- Updated blobs from miui_DAVINCI_21.1.8_45d103a53a
+- Improved system smoothness.
 - Improved system stability.
-[Tips: Screen off fod was disabled for now]

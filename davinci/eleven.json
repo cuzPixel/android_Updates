@@ -1,11 +1,11 @@
 {
-  "datetime": 1609895700,
-  "filename": "PixelExperience-11.0-20210106-davinci-unsigned.zip",
-  "id": "49afe618d16ea95fef91479853fe8a3a",
-  "size": 1502814427,
-  "url": "https://sourceforge.net/projects/cuzpixel/files/davinci/eleven/PixelExperience-11.0-20210106-davinci-unsigned.zip/download",
+  "datetime": 1610420700,
+  "filename": "PixelExperience-11.0-20210112-davinci-unsigned.zip",
+  "id": "460a485b57efcb2d314cf9496f02fee9",
+  "size": 1502655387,
+  "url": "https://sourceforge.net/projects/cuzpixel/files/davinci/eleven",
   "version": "eleven",
-  "filehash": "a6109f6545300449eea1a4f38b60b5e1",
+  "filehash": "9d976691c46a89f9ad49982c524cf490",
   "is_incremental": false,
   "has_incremental": false,
   "error": false,
@@ -16,8 +16,8 @@
       "name": "Ray Lau"
     }
   ],
-  "donate_url": "",
-  "website_url": "",
+  "donate_url": "https://www.paypal.me/raysenlau",
+  "website_url": "https://github.com/cuzPixel",
   "news_url": "https://t.me/cuzPixel",
   "forum_url": "https://forum.xda-developers.com/mi-9t/development/unofficial-pixel-experience-t4005213"
 }
