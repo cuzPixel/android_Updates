@@ -2,13 +2,14 @@ Device: Xiaomi Mi 9T / Redmi K20 (davinci)
 Description: January Security Patch
 Build Type: Full
 
-===== Jan 18, 2021 =====
+===== Jan 20, 2021 =====
 
 Changelogs:
-- Updated Piggy kernel 4.14.216.
-- Added LiveDisplay feature.
-- Added Screen off fod.
-- Added custom gesture navbar.
-- Added double tap to sleep.
-- Removed screenshot sound.
-- Improved system stability.
+- Switch to USER build.
+- Fixed BT low mic.
+- Added lockscreen media art.
+- Added advanced reboot.
+- Added three-fingers-swipe to screenshot.
+- Removed double tap to sleep.
+- Removed quick settings pull down.
+- Others improvements.
