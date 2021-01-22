@@ -2,14 +2,11 @@ Device: Xiaomi Mi 9T / Redmi K20 (davinci)
 Description: January Security Patch
 Build Type: Full
 
-===== Jan 20, 2021 =====
+===== Jan 22, 2021 =====
 
 Changelogs:
-- Switch to USER build.
-- Fixed BT low mic.
-- Added lockscreen media art.
-- Added advanced reboot.
-- Added three-fingers-swipe to screenshot.
-- Removed double tap to sleep.
-- Removed quick settings pull down.
+- Added back double tap to sleep.
+- Added incall vibration options.
+- Fixed dark boot animation.
+- Fixed gboard buttom padding.
 - Others improvements.
