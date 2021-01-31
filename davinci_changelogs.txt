@@ -2,11 +2,8 @@ Device: Xiaomi Mi 9T / Redmi K20 (davinci)
 Description: January Security Patch
 Build Type: Full
 
-===== Jan 27, 2021 =====
+===== Jan 31, 2021 =====
 
 Changelogs:
-- Fixed SafetyNet.
-- Fixed some Bugs.
-- Prebuilt CameraGo.
-- Improved BT audio.
-- Others improvements.
+- aosp gms bring up.
+- beta version.
