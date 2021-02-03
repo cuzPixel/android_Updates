@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1612099273,
-      "filename": "aosp_gms-11.0-20210131-davinci-beta.zip",
-      "id": "9abd59f15b8636ba643887608afbbbd7",
-      "romtype": "user",
-      "size": 1526271205,
-      "url": "https://sourceforge.net/projects/cuzpixel/files/davinci/11.0/beta/aosp_gms-11.0-20210131-davinci-beta.zip/download",
+      "datetime": 1612358014,
+      "filename": "aosp_gms-11.0-20210203-davinci-beta.zip",
+      "id": "64fa08aef729060426ed6af084113160",
+      "romtype": "beta",
+      "size": 1675101127,
+      "url": "https://sourceforge.net/projects/cuzpixel/files/davinci/11.0/beta/aosp_gms-11.0-20210203-davinci-beta.zip/download",
       "version": "11.0"
     }
   ]
