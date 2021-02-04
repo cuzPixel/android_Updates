@@ -1,15 +1,14 @@
 Device: Xiaomi Mi 9T / Redmi K20 (davinci)
-Description: January Security Patch
+Description: February Security Patch
 Build Type: Full
 
-===== Feb 3, 2021 =====
+===== Feb 4, 2021 =====
 
 Changelogs:
 - GMS version: sunfish RQ1A.210205.004
 - Merged Android Feb SP (android-11.0.0_r29)
-- Fixed BT audio bugs.
-- Improved WIFI 2.4G connect stability.
-- Removed Misound for now.
+- Fixed audio bugs.
+- Fixed OK Google.
 - Prebuilt Camera Go.
 - Others improvements.
 
