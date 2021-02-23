@@ -2,11 +2,13 @@ Device: Xiaomi Mi 9T / Redmi K20 (davinci)
 Description: February Security Patch
 Build Type: Full
 
-===== Feb 17, 2021 =====
+===== Feb 22, 2021 =====
 
 Changelogs:
-- Improved ‘OK Google‘ experience.
-- Added reset battery stats.
-- Clean up some prebuilt gapps.
+- Bump ROM version to 11.2.4
+- Introduce FaceUnlock
+- Flatten APEXs for performance
+- Import Ubuntu & Oxygen font for themepicker
+- Import more accent colors for themepicker
 - Others improvements.
 
