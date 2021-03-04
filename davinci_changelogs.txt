@@ -1,14 +1,14 @@
 Device: Xiaomi Mi 9T / Redmi K20 (davinci)
-Description: February Security Patch
+Description: March Security Patch
 Build Type: Full
 
-===== Feb 22, 2021 =====
+===== Mar 04, 2021 =====
 
 Changelogs:
-- Bump ROM version to 11.2.4
-- Introduce FaceUnlock
-- Flatten APEXs for performance
-- Import Ubuntu & Oxygen font for themepicker
-- Import more accent colors for themepicker
+- Bump ROM version to 11.3.1
+- Updated Android March security patch.
+- Updated kernel to 4.14.222
 - Others improvements.
 
+Note: From now on, no new features will be added!
+Updated Monthly!
