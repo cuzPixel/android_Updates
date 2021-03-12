@@ -2,15 +2,14 @@ Device: Xiaomi Mi 9T / Redmi K20 (davinci)
 Description: March Security Patch
 Build Type: Full
 
-===== Mar 08, 2021 =====
+===== Mar 12, 2021 =====
 
 Changelogs:
-- Bump ROM version to 11.3.2
-- Updated March security patch.
-- Merged Linux 4.14.224 stable into Kernel.
-- Merged CAF latest Tag 09100 into Kernel.
-- Enabled privacy indicators.
-- Fixed wallpaper crashed on background.
-- Added Phone ringtone setting for Multi SIM.
+- Bump ROM version to 11.3.3
+- Merged Linux 4.14.225 stable into Kernel.
+- Added back statusbar networkTraffic indicator.
+- Prebuilt MIUI 21.1.8 Firmware.
+- Prebuilt Pixel Dark booting logo.
+- Improved Media Player View on QS.
 - Others improvements.
 
