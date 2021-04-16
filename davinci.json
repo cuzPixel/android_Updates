@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1617879230,
-      "filename": "cuzPixel-11.0-20210408-davinci-v11.4.1.zip",
-      "id": "c06e57befadfe7d1b5c470257ed9e7a9",
+      "datetime": 1618496493,
+      "filename": "cuzPixel-11.0-20210415-davinci-v11.4.2.zip",
+      "id": "0ac9e22a85a89dfe46e0f8af06b343cb",
       "romtype": "user",
-      "size": 1727972393,
-      "url": "https://sourceforge.net/projects/cuzpixel/files/davinci/11.0/cuzPixel-11.0-20210408-davinci-v11.4.1.zip/download",
+      "size": 1728136787,
+      "url": "https://sourceforge.net/projects/cuzpixel/files/davinci/11.0/cuzPixel-11.0-20210415-davinci-v11.4.2.zip/download",
       "version": "11.0"
     }
   ]
