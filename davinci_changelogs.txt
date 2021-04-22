@@ -2,11 +2,12 @@ Device: Xiaomi Mi 9T / Redmi K20 (davinci)
 Description: April Security Patch
 Build Type: Full
 
-===== Apr 08, 2021 =====
+===== Apr 22, 2021 =====
 
 Changelogs:
-- Bump ROM version to 11.4.1
-- Merged Linux 4.14.229 stable into Kernel.
-- Merged Android 11.0.0 Release 34
+- Merged Linux 4.14.231 stable into Kernel.
+- Updated blobs to V12.1.2.0.
+- Updated Fireware to V12.1.2.0.
+- Increase mic volume.
 - Others improvements.
 
