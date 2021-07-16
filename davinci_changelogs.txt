@@ -1,13 +1,20 @@
 Device: Xiaomi Mi 9T / Redmi K20 (davinci)
-Description: Jun Security Patch
+Description: July Security Patch
 Build Type: Full
 
-===== Jun 18, 2021 =====
+===== Jul 16, 2021 =====
 
 Changelogs:
-- Merged Android 11.0.0 Release 38 (RQ3A.210605.005).
-- Merged Linux 4.14.237 stable into Kernel.
-- Merged latest f2fs stable into Kernel.
-- Merged tag 'LA.UM.9.1.r1-10200-SMxxx0.0' into Kernel.
+- Merged Android 11.0.0 Release 39 (RQ3A.210705.001).
+- Merged Linux 4.14.239 stable into Kernel.
+- Merged tag 'LA.UM.9.1.r1-10600-SMxxx0.0' into Kernel.
+- Updated blobs from miui_DAVINCI_21.7.14_fc615efc1e_11.0
 - Prebuilt Urnyx's 7.3 v2.5 GoogleCamera Mod.
+- Removed faceunlock.
+- Removed built-in firmware.
 - Others improvements.
+
+Please visit the "https://github.com/cuzPixel" to view details changelogs.
+
+Known bugs:
+- Power-off charging
