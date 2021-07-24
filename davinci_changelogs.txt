@@ -2,10 +2,14 @@ Device: Xiaomi Mi 9T / Redmi K20 (davinci)
 Description: July Security Patch
 Build Type: Full
 
-===== Jul 17, 2021 =====
+===== Jul 24, 2021 =====
 
 Changelogs:
--Fix SystemUI crash caused by biometric fingerprint verification of some bank apps
+- Switch to kernel 4.14.190 stable with piggy perf. 
+- Merged tag LA.UM.9.1.r1-10600-SMxxx0.0 of CAF revision.
+- Enabled Hand Wave/Pocket gestures of Xiaomi Parts
+- Others improvements.
+
 
 Please visit the "https://github.com/cuzPixel" to view details changelogs.
 
