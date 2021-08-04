@@ -1,13 +1,14 @@
 Device: Xiaomi Mi 9T / Redmi K20 (davinci)
-Description: July Security Patch
+Description: August Security Patch
 Build Type: Full
 
-===== Jul 24, 2021 =====
+===== Aug 4, 2021 =====
 
 Changelogs:
-- Switch to kernel 4.14.190 stable with piggy perf. 
-- Merged tag LA.UM.9.1.r1-10600-SMxxx0.0 of CAF revision.
-- Enabled Hand Wave/Pocket gestures of Xiaomi Parts
+- Merged Android 11.0.0 Release 40 (RQ3A.210805.001.A1).
+- Removed DiraceSound (buggy).
+- Use dark logo/splash unconditionally.
+- Set display panel to 66Hz framerate.
 - Others improvements.
 
 
