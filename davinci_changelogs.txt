@@ -1,18 +1,15 @@
-Device: Xiaomi Mi 9T / Redmi K20 (davinci)
+Device: Xiaomi Mi 9T / Redmi K20 (davinci/davinciin)
 Description: August Security Patch
 Build Type: Full
 
-===== Aug 4, 2021 =====
+===== Aug 13, 2021 =====
 
 Changelogs:
-- Merged Android 11.0.0 Release 40 (RQ3A.210805.001.A1).
-- Removed DiraceSound (buggy).
-- Use dark logo/splash unconditionally.
-- Set display panel to 66Hz framerate.
-- Others improvements.
-
-
-Please visit the "https://github.com/cuzPixel" to view details changelogs.
+- Merged Caf revision 10900 into kernel.
+- Updated blobs from V12.1.4.0 stable.
+- Improved charging performance.
+- Improved captive portal detection.
+- Other improvements.
 
 Known bugs:
 - Power-off charging
