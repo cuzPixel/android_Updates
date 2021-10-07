@@ -1,15 +1,9 @@
 Device: Xiaomi Mi 9T / Redmi K20 (davinci/davinciin)
-Description: August Security Patch
+Description: October Security Patch
 Build Type: Full
 
-===== Aug 13, 2021 =====
+===== Oct 06, 2021 =====
 
 Changelogs:
-- Merged Caf revision 10900 into kernel.
-- Updated blobs from V12.1.4.0 stable.
-- Improved charging performance.
-- Improved captive portal detection.
-- Other improvements.
-
-Known bugs:
-- Power-off charging
+- Merged Android 11.0.0 Release 46 (RQ3A.211001.001).
+- Update CAF revision to 11200.
